@@ -101,7 +101,7 @@ video::-webkit-media-controls-volume-slider {
     paddin-bottom: 0.6rem;
 }
 
-.paragraph {
+p {
     color: #606b79;
     text-align: center;
     padding-top: 1.4rem;

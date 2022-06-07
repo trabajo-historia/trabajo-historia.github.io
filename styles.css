@@ -137,7 +137,7 @@ p {
 .transparent-btn {
     border-color:rgba(210,210,210,.2);
     border-style:solid;
-    border-width:1px;
+    border-width:2px;
     border-radius: .3rem;
     display: inline-block;
     box-sizing: border-box;
